@@ -5,6 +5,7 @@
     "sn": "1250PDN001569",
     "mac1": "001132C3B2A9",
     "mac2": "001132C3B2B0"
+    "netif_num": "2",
   },
   "synoinfo": {
 	"maxdisks" : "16",
