@@ -3,15 +3,8 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "sn": "1250PDN001569",
-    "mac1": "001132C3B2A9",
-    "mac2": "001132C3B2B0"
-    "netif_num": "2"
+    "mac1": "001132C3B2A9"
   },
-  "synoinfo": {
-	"maxdisks" : "16",
-	"internalportcfg" : "0x000c",
-	"esataportcfg" : "0xfff0",
-	"usbportcfg" : "0x30000"
-  },
+  "synoinfo": {},
   "ramdisk_copy": {}
 } 
