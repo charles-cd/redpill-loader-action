@@ -1,6 +1,6 @@
 name: Build RedPill DSM loader
 
-on: workflow_dispatch
+on: [push]
 
 jobs:
   redpill:
