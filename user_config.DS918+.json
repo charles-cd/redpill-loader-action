@@ -4,7 +4,7 @@
     "pid": "0x5571",
 	"sn": "1250PDN001569",
 	"netif_num": "1",
-	"mac1": "001132C3B2A9",
+	"mac1": "001132C3B2A9"
     },
     "synoinfo": {
 	"maxdisks": "16",
